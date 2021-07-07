@@ -1,1 +1,1 @@
-# takenmind
+#Challenges solved during megamonth summer
